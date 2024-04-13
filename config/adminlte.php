@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'title' => 'AdminLTE 3',
+    'title' => 'MiniCRM',
     'title_prefix' => '',
     'title_postfix' => '',
 
